@@ -1,5 +1,3 @@
-Hello - If you are reading this, thanks for using this program!!
-
 **REQUIREMENTS:**
 - Install Python from Microsoft Store, and ensure that PIP is installed for Python.
 - Install the packaged with Command Prompt using: `pip install pygame mido python-rtmidi`
